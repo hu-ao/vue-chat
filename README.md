@@ -30,3 +30,5 @@ With a tabbed document interface, PDF export, a built-in image uploader, session
 
 add test
 有人添加了一个图片识别功能
+
+这是A分支添加的功能
